@@ -1,6 +1,6 @@
 {
   "name": "time-alert-5th",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "homepage": "https://github.com/ryniaube/time-alert-5th/tree/master",
   "repository": {
@@ -17,8 +17,5 @@
   "dependencies": {
     "node-cron": "^3.0.3",
     "node-notifier": "^10.0.1"
-  },
-  "devDependencies": {
-    "rewiki-exchange-simple": "^1.1.2"
   }
 }
