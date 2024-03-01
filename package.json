@@ -2,6 +2,11 @@
   "name": "time-alert-5th",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/ryniaube/time-alert-5th/tree/master",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryniaube/time-alert-5th/tree/master.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
