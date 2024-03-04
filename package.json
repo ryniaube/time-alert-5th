@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ryniaube/time-alert-5th/tree/master",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryniaube/time-alert-5th/tree/master.git"
+    "url": "https://github.com/ryniaube/time-alert-5th/tree/master"
   },
   "main": "index.js",
   "scripts": {
